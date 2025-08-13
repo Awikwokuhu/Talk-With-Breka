@@ -58,6 +58,8 @@ body {
 /* ✅ KONTEN UTAMA */
 /* 🔄 LOGO HERO */
 .logo {
+  background-color: #ffffff;
+  border-radius: 50%;
   width: 70px;
   height: auto;
   vertical-align: middle;
@@ -225,4 +227,5 @@ footer{
 .fade-in.visible {
   opacity: 1;
   transform: translateY(0);
+
 }
