@@ -72,8 +72,8 @@ body {
   }
 }
 .hero {
-  background: #ffffff;
-  color: rgb(0, 0, 0);
+  background: #55abe5;
+  color: rgb(255, 255, 255);
   text-align: center;
   padding: 80px 20px 60px;
   clip-path: polygon(0 0, 100% 0, 100% 80%, 0 100%);
@@ -229,3 +229,4 @@ footer{
   transform: translateY(0);
 
 }
+
