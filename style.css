@@ -61,7 +61,7 @@ body {
   background-color: #ffffff;
   border-radius: 50%;
   width: 70px;
-  height: auto;
+  height: auto; 
   vertical-align: middle;
   margin-right: 10px;
 }
@@ -227,6 +227,4 @@ footer{
 .fade-in.visible {
   opacity: 1;
   transform: translateY(0);
-
 }
-
