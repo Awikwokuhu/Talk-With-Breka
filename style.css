@@ -66,6 +66,25 @@ body {
   margin-right: 10px;
 }
 
+/* 🎯 TOMBOL MENU */
+.cta-button {
+  display: inline-block;
+  padding: 12px 24px;
+  margin-top: 20px;
+  background-color: #ffffff;   /* putih */
+  color: #55abe5;              /* teks biru */
+  font-size: 18px;
+  font-weight: bold;
+  text-decoration: none;
+  border-radius: 10px;
+  transition: all 0.3s ease;
+}
+
+.cta-button:hover {
+  background-color: #FFD321;   /* biru saat hover */
+  color: #ffffff;              /* teks putih saat hover */
+} 
+
 @media (max-width: 600px) {
   .logo {
     width: 60px;
